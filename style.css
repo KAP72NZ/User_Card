@@ -1,0 +1,29 @@
+.container {
+    width: 50%;
+    margin: 15%;
+    margin-top: 20px;
+    padding: 5px;
+    border-style: solid;
+    
+}
+.circle {
+    margin-right: 10px;
+    margin-top: 50px;       
+}
+h1 {
+    margin: 2px;
+    padding-bottom: 5px;
+}
+p4 {
+    text-decoration: underline;
+}
+.card {
+    margin: auto;
+   border-top-style: solid;
+   border-top-color: darkcyan;
+   border-top-width: 100px;
+   
+
+   
+  
+}
